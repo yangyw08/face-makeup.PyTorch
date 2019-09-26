@@ -53,3 +53,5 @@ colors = [[230, 50, 20], [20, 70, 180], [20, 70, 180]]
 ```
 ### Train face parsing model (optional)
 Follow this repo [zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch)
+
+### https://blog.csdn.net/qq_38153833/article/details/88060268
